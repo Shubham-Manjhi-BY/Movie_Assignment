@@ -1,2 +1,2 @@
-# Movie_Assignment
-Same assignement with SpringBoot.
+# Spring_Basics_Microservices
+Spring_Basics_Microservices
